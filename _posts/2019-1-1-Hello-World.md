@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: Misc
 title: Hello World!
 ---
 
