@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Hello, my name is Abhinav and I'm a software engineer at Bloomberg. [Click here](https://www.linkedin.com/in/abhinav-baid) to find out more about my professional history. I previously blogged about my GSoC projects on [Blogger](http://fandangoing.blogspot.com/).
