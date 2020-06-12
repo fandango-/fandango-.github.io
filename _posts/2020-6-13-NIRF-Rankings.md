@@ -21,7 +21,6 @@ It is clear that this score will be higher for engineering and medical instituti
 
 To avoid these issues and present a fairer picture, I've re-ranked the institutions based on the PERCEPTION score alone.
 
-<div class="datatable-begin"></div>
 | Institute ID | Name | City | State | Score | Rank |
 |-------|-------|-------|-------|-------|-------|
 | IR-O-U-0220 | Indian Institute of Science | Bengaluru | Karnataka | 100.0 | 1 |
@@ -125,4 +124,3 @@ To avoid these issues and present a fairer picture, I've re-ranked the instituti
 | IR-O-I-1441 | Saveetha Institute of Medical and Technical Sciences | Chennai | Tamil Nadu | 1.58 | 99 |
 | IR-O-N-17 | Sawai Man Singh Medical College | Jaipur | Rajasthan | 0.0 | 100 |
 | IR-O-U-0295 | Datta Meghe Institute of Medical Sciences | Wardha | Maharashtra | 0.0 | 100 |
-<div class="datatable-begin"></div>
