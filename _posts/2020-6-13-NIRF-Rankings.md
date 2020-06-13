@@ -24,6 +24,7 @@ To avoid these issues and present a fairer picture, I've re-ranked the instituti
 * [Overall](#overall)
 
 # Overall
+
 | Institute ID | Name | City | State | Score | Rank |
 |-------|-------|-------|-------|-------|-------|
 | IR-O-U-0220 | Indian Institute of Science | Bengaluru | Karnataka | 100.0 | 1 |
